@@ -4,9 +4,9 @@ The program asks user to select one option from the menu:
   	
 	   0. Exit  
   	   
-     1. Item Sale  
+     	   1. Item Sale  
      	   
-     2. Daily Report 
+           2. Daily Report 
 	   
 	   3. Weekly Check
 	   
